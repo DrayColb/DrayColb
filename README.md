@@ -3,7 +3,8 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Honey Pot (Microsoft Azure)</b>
-
+- <b>Active Directory</b>
+- <b> Malware Analysis</b>
 
 <h2>Programming Projects:</h2>
 
