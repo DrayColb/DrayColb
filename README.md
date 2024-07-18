@@ -4,7 +4,8 @@
 
 - <b>Honey Pot (Microsoft Azure)</b>
 - <b>Active Directory</b>
-- <b> Malware Analysis</b>
+- <b> Virtual Machine Exploitation</b>
+
 
 <h2>Programming Projects:</h2>
 
