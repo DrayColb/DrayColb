@@ -13,8 +13,8 @@
 
 <h2>Certificates:</h2>
 
-  - [Google Cybersecurity]
-  - [Qualyis Vulnerability Managment Detection and Response
-  - [Franklin Apprenticeships - Application Developer on z/OS Certification]
+  - Google Cybersecurity
+  - Qualyis Vulnerability Managment Detection and Response
+  - Franklin Apprenticeships - Application Developer on z/OS Certification
 
 
