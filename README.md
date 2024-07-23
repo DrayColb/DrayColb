@@ -13,6 +13,8 @@
 
 <h2>Certificates:</h2>
 
-  - [Google Cybersecurity](https://coursera.org/share/702532dac34bea42800d51823407c296)
+  - [Google Cybersecurity]
+  - [Qualyis Vulnerability Managment Detection and Response
+  - [Franklin Apprenticeships - Application Developer on z/OS Certification]
 
 
