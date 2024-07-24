@@ -9,7 +9,7 @@
 
 <h2>Programming Projects:</h2>
 
-- <b>[Spaceman Obsticale Course (C#, Unity)](https://github.com/DrayColb/DrayColb1/blob/main/README.md)</b>
+- <b>[Spaceman Obstacle Course (C#, Unity)](https://github.com/DrayColb/DrayColb1/blob/main/README.md)</b>
 
 <h2>Certificates:</h2>
 
