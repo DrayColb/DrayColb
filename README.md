@@ -1,6 +1,6 @@
 <h1>Hello, I'm Drayzon Colbert </h1>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>[Honey Pot(Microsoft Azure)](https://github.com/DrayColb/Honey-Pot)</b>
 - <b>[Active Directory](https://github.com/DrayColb/Active-Directory)</b>
