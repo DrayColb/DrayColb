@@ -13,7 +13,8 @@
 
 <h2>Certificates:</h2>
 
+  - CompTIA A+
   - Google Cybersecurity
   - Franklin Apprenticeships - Application Developer on z/OS Certification
-  - CompTIA A+
+  
 
