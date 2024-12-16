@@ -15,5 +15,5 @@
 
   - Google Cybersecurity
   - Franklin Apprenticeships - Application Developer on z/OS Certification
-
+  - CompTIA A+
 
