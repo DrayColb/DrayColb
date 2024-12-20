@@ -13,8 +13,7 @@
 
 <h2>Certificates:</h2>
 
-  ![Comptia A+](https://github.com/user-attachments/assets/df1907fa-b5fa-4b18-b810-190ad75880f4) 
-      
+  ![Comptia A+](https://github.com/user-attachments/assets/66495ed3-1b81-4073-8850-41c854bdb16b)
 
   ![Google Security](https://github.com/user-attachments/assets/efef7cb9-87d9-4485-9f91-3215cd190074)
  
